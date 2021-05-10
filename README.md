@@ -1,3 +1,3 @@
 # Simple Landing Page using SASS
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/marville001/SASS/blob/master/page.png "Landing Page")
