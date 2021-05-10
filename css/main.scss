@@ -115,6 +115,12 @@ main {
       font-size: 3em;
       margin-top: 10px;
       text-transform: uppercase;
+
+      @include desktop{
+          width: 30%;
+          font-size: 4em;
+          line-height: .9em;
+      }
     }
 
     p {
@@ -132,6 +138,11 @@ main {
       text-align: center;
       margin: 50px auto 0 auto;
       padding: $padding;
+      
+      @include desktop{
+          display: inline-block;
+          padding: $padding $padding * 4;
+      }
     }
   }
 }
